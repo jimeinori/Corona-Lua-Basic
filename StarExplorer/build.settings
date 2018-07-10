@@ -1,0 +1,16 @@
+settings =
+{
+	orientation =
+	{
+		-- Supported values for orientation:
+        -- portrait, portraitUpsideDown, landscapeLeft, landscapeRight
+        
+		default ="portrait",
+		supported = {"portrait"},
+	},
+}
+
+--[=====[
+	This provides real devices (phones, tablets, etc.) with details they
+	need regarding your app. 
+--]=====]
