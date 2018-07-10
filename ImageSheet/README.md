@@ -9,7 +9,6 @@ For educational purposes. I am currently studying the CoronaLabs' Corona SDK (*w
 
 You can get their SDK [here](https://coronalabs.com/). It's based on Lua scripting language and it's absolutely free.  
 
-
 ## You can read more about image sheets here: 
 * [CoronaLabs DisplayObjects](https://docs.coronalabs.com/guide/media/displayObjects/index.html) - includes properties and methods for images, text, shapes, etc.
 * [CoronaLabs Documentation](https://docs.coronalabs.com/guide/media/imageSheets/index.html) - includes overview and setup.
